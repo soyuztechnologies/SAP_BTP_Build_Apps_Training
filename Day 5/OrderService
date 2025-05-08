@@ -1,0 +1,14 @@
+#
+#Wed May 07 09:12:50 UTC 2025
+sap.applicationdevelopment.actions.enabled=true
+Description=My CAP Order service in cloud
+sap.processautomation.enabled=true
+WebIDEEnabled=true
+URL=https\://orderscapapp.cfapps.eu10.hana.ondemand.com/service/OrderManagement
+Name=OrderService
+sap.build.usage=odata_gen
+HTML5.DynamicDestination=true
+Type=HTTP
+Authentication=NoAuthentication
+Appgyver.Enabled=true
+ProxyType=Internet
